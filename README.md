@@ -1,1 +1,2 @@
-Juego de adivinar la palabra del dia, Desarrollado con Java Script, Sql, Handlebars, Css.
+- Juego de adivinar la palabra del dia, Desarrollado con Java Script, Sql, Handlebars, Css.
+- Tambien contiene una pagina de administrador, que le permite al usuario crear una palabra nueva o eliminar otra.
