@@ -1,2 +1,3 @@
 - Juego de adivinar la palabra del dia, Desarrollado con Java Script, Sql, Handlebars, Css, Node js.
 - Tambien contiene una pagina de administrador, que le permite al usuario crear una palabra nueva o eliminar otra.
+- Podes descargar el .rar y utilizar el juego
